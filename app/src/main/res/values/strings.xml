@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MadLevel2Task2</string>
+    <string name="incorrect">Wrong Answer!</string>
+    <string name="info">Swipe right for true, left for false!</string>
+</resources>
